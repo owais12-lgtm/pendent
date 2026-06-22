@@ -10,3 +10,6 @@ LiPo battery support
 Custom compact PCB
 Low-power design
 Push button interface
+ # PCB
+ <img width="667" height="636" alt="image" src="https://github.com/user-attachments/assets/779bab1c-ca6d-49de-a85a-508f36e51c5a" />
+<img width="667" height="636" alt="image" src="https://github.com/user-attachments/assets/e30f838d-bddd-4043-bafe-45003cfa9a7f" />
